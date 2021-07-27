@@ -1,2 +1,1 @@
-# FL
-El
+# Disable Right Click in HTML
